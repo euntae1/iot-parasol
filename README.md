@@ -1,3 +1,7 @@
+<img width="768" height="517" alt="그림_1" src="https://github.com/user-attachments/assets/4488889c-02a8-48f0-b9aa-5366f6550b93" />
+<img width="539" height="417" alt="그림" src="https://github.com/user-attachments/assets/6da9d41a-3e3b-412c-9eaf-71f433c2a459" />
+
+
 # ☂️ Smart IoT Parasol System (지능형 IoT 스마트 파라솔)
 
 > **건국대학교 전기전자공학부 지능형IoT설계 최종 프로젝트**  
