@@ -64,5 +64,4 @@ iot-parasol/
     ├── rain_detector.py     # 라즈베리파이 카메라 스트리밍
     └── real.py              # 노트북/PC 비전 통합 처리 및 각도 계산
 text```
-[IoT_최종보고서_3팀.pdf](https://github.com/user-attachments/files/33284467/IoT_._3.pdf)
 
