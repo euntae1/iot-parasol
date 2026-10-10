@@ -1,5 +1,8 @@
 
 
+
+
+
 # ☂️ Smart IoT Parasol System (지능형 IoT 스마트 파라솔)
 
 > **건국대학교 전기전자공학부 지능형IoT설계 최종 프로젝트**  
@@ -39,6 +42,8 @@
 ---
 
 ## ⚙️ 3. 핵심 기능 및 본인 담당 업무 상세 (Key Contributions)
+
+https://github.com/user-attachments/assets/b03ae579-c2ad-4493-bc07-a71b6e44da36
 
 ### 🔹 [장은태 담당] OpenCV 기반 빗물 방향 감지 및 각도 계산 알고리즘
 1. **듀얼 카메라 직교(Orthogonal) 배치:**
