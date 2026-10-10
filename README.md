@@ -50,7 +50,7 @@
 
 ## 📂 4. 프로젝트 디렉토리 구조 (Directory Structure)
 
-```text
+
 smart-parasol-system/
 ├── Backend_RaspberryPi/     # 라즈베리파이 서버 및 모터 제어 부
 │   ├── test_server.py       # Flask 통합 서버 및 상태 공유 매니저
@@ -71,6 +71,8 @@ smart-parasol-system/
     └── real.py              # 노트북 비전 통합 처리 및 빗물 각도 계산
 
 
+
+## 🚀 5. 시스템 아키텍처 및 동작 흐름 (Architecture)
 [Flutter Mobile App] --(HTTP POST/GET REST API)--> [Raspberry Pi (Flask Server)] 
                                                           │
           ┌───────────────────────────────────────────────┴───────────────────────────────────────────────┐
@@ -80,7 +82,7 @@ smart-parasol-system/
 
 
 
-📱 6. 주요 시연 결과 (Demonstration)
+## 📱 5. 주요 시연 결과 (Demonstration)
 태양 자동제어 모드비 자동제어 모드수동 제어 모드GPS 및 pvlib를 통해 실시간 태양 방위각을 계산하여 파라솔이 태양 방향을 추적[cite: 197, 216]
 카메라 영상 분석을 통해 비가 유입되는 방향(예: 135°)을 실시간 인지하고 각도 조절[cite: 219]
 사용자가 앱에서 슬라이더 및 직접 입력을 통해 원하는 각도로 정밀 제어[cite: 223]
